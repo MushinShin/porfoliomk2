@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap");
+
+.H-Container {
+  text-align: center;
+  border-bottom: 2px solid #fff200;
+  width: 300px;
+  display: inline-block;
+}
+
+.S-Header {
+  font-family: "Amatic SC", cursive;
+  font-size: 3rem;
+  margin-top: 3rem;
+}
